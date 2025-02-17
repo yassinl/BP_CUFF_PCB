@@ -1,49 +1,49 @@
 ## Members
-Henry Forsyth, Computer Engineering Student (2024)
-rhforsythjr@vt.edu
+Yassin Lahrime, Computer Engineering Student (2026)
+yassinl@vt.edu
 
 ## Mentor
-MENTOR NAME HERE
+Tyler Wells :3
 
 ## Current Status
 IN PROGRESS
 
 ## Project Overview
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vehicula, odio eu dictum aliquet, enim elit tempor diam, quis volutpat mi eros ut nisi. Aliquam luctus orci eget accumsan porta. Proin sollicitudin ultricies lacus et varius. Pellentesque tempor vehicula tempus. Integer semper id lorem vehicula tristique. Suspendisse nec placerat libero, eget aliquet eros. Phasellus iaculis quis lorem in ultrices. Nunc lobortis odio at sem pretium dictum. Integer sed tellus quis lorem pretium posuere.
+Portable Blood pressure and heart rate monitoring device.
+Started as Fall 2024 IDP Project--Continued as an AMP Lab Project.
+
 
 ## Educational Value Added
 
-Vivamus dapibus iaculis dui. Nullam vitae arcu a nisi elementum semper eu eu velit. Suspendisse vel dictum lacus. Sed facilisis luctus consequat. Donec vulputate eu dolor in molestie. Maecenas pretium sem non tellus facilisis sollicitudin id ut nulla. In condimentum orci nisi, sagittis facilisis neque convallis eget. Duis ut sem cursus, placerat mi pellentesque, mollis eros. Integer efficitur blandit elit, sed egestas sem porta in. Mauris euismod nulla ac tellus tempus, eu egestas dui molestie. Proin faucibus enim quis consequat sodales. Pellentesque eleifend blandit augue et laoreet. Phasellus vel posuere nisi, ac aliquam arcu.
+PCB Design--Rapid Prototyping--CAD--Arduino
 
 ## Tasks
 
-<!-- Your Text Here. You may work with your mentor on this later when they are assigned -->
+Schmematics, PCB routing, Parts order, Design Iterations, Prototyping....
 
 ## Design Decisions
 
-<!-- Your Text Here. You may work with your mentor on this later when they are assigned -->
+Still working out how im going to power the device-- originally i thought i would just use a portable USB charger because thats the quickest and easiest solution but maybe ill use 18650 cells. Im not sure if I want to deal with the hassle of creating a charging circuit for that though. 
 
 ## Design Misc
 
-<!-- Your Text Here. You may work with your mentor on this later when they are assigned -->
+![V5 PCB Design](V5_Design.png)
 
 ## Steps for Documenting Your Design Process
 
-<!-- Your Text Here. You may work with your mentor on this later when they are assigned -->
+Mainly just using the engineering notebook from IDP Fall 2024 and kicad schematics.
 
 ## BOM + Component Cost
 
-<!-- Your Text Here. You may work with your mentor on this later when they are assigned -->
+Whole project should be less than 100 dollars 
 
 ## Timeline
 
-<!-- Your Text Here. You may work with your mentor on this later when they are assigned -->
+Project should be done by the end of spring 2025 (need some more prototyping and design iterations)🤞
 
 ## Useful Links
 
-<!-- Your Text Here. You may work with your mentor on this later when they are assigned -->
+https://yassinlahrime.com/bp_cuff
 
-## Log
 
-<!-- Your Text Here. You may work with your mentor on this later when they are assigned -->
