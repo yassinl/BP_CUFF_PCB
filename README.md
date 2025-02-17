@@ -42,8 +42,4 @@ Whole project should be less than 100 dollars
 
 Project should be done by the end of spring 2025 (need some more prototyping and design iterations)🤞
 
-## Useful Links
-
-https://yassinlahrime.com/bp_cuff
-
 
