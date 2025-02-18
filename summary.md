@@ -1,8 +1,8 @@
 # Student Names 
-Henry Forsyth
+Yassin Lahrime
 
 # Summary
-This is a testing doc to see if I can pull it into the website
+Started from my Sophomore year IDP Project and transitioned into a fully realized medical device. Follow the process from PCB Design, Signal Processing, CAD in order to get a functional medical prototype.
 
 # Date Started
-11-16-2000
+12-03-2024
