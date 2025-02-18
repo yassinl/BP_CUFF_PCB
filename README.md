@@ -28,7 +28,7 @@ Still working out how im going to power the device-- originally i thought i woul
 
 ## Design Misc
 
-![V5 PCB Design](V5_Design.png)
+![V5 PCB Design](hero.png)
 
 ## Steps for Documenting Your Design Process
 
