@@ -24,7 +24,8 @@ Schmematics, PCB routing, Parts order, Design Iterations, Prototyping....
 
 ## Design Decisions
 
-Still working out how im going to power the device-- originally i thought i would just use a portable USB charger because thats the quickest and easiest solution but maybe ill use 18650 cells. Im not sure if I want to deal with the hassle of creating a charging circuit for that though. 
+
+Using a portable USB power bank as to supply power. Ideally I would create my own power supply with custom charging and discharging circuits but this project has dragged on for too long and making the circuit custom with 18650 or lipo cells would not be as reliable as buying a USB power bank off the shelf. 
 
 ## Design Misc
 
