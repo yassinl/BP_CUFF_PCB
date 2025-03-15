@@ -3,7 +3,7 @@ Yassin Lahrime, Computer Engineering Student (2026)
 yassinl@vt.edu
 
 ## Mentor
-Tyler Wells :3
+Rusty :3
 
 ## Current Status
 IN PROGRESS
